@@ -1,0 +1,3 @@
+[submodule "phx-hello"]
+	path = phx-hello
+	url = git@github.com:lexruee/phx-hello.git
