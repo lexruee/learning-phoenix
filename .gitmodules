@@ -1,3 +1,6 @@
 [submodule "phx-hello"]
 	path = phx-hello
 	url = git@github.com:lexruee/phx-hello.git
+[submodule "phx-todo"]
+	path = phx-todo
+	url = git@github.com:lexruee/phx-todo.git

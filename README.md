@@ -49,6 +49,14 @@ mix phx.routes         # Prints all routes
 mix phx.server         # Starts applications and their servers
 ```
 
+For more details see the [Phoenix Mix Documentation](https://hexdocs.pm/phoenix/phoenix_mix_tasks.html).
+
+## Basic Examples
+ 
+ * [Hello World App](https://github.com/lexruee/phx-hello)
+ * [Todo App](https://github.com/lexruee/phx-todo)
+
+
 ## Online Resources
 
  * [Phoenix Getting Started Guide](https://hexdocs.pm/phoenix/up_and_running.html)
