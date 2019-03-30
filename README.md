@@ -1,5 +1,14 @@
 # Learning Phoenix
 
+## Creating a new Project
+
+```
+mix phx.new PATH [--module MODULE] [--app APP]
+```
+
+
+To get more details how to use the command just run `mix phx.new`.
+
 ## Online Resources
 
  * [Phoenix Getting Started Guide](https://hexdocs.pm/phoenix/up_and_running.html)
