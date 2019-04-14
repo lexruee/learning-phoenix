@@ -55,6 +55,7 @@ For more details see the [Phoenix Mix Documentation](https://hexdocs.pm/phoenix/
  
  * [Hello World App](https://github.com/lexruee/phx-hello)
  * [Todo App](https://github.com/lexruee/phx-todo)
+ * [Blog App](https://github.com/lexruee/phx-blog)
 
 
 ## Online Resources
