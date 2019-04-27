@@ -1,5 +1,13 @@
 # Learning Phoenix
 
+## Installation
+
+``` 
+mix local.hex
+mix archive.install hex phx_new 1.4.3
+```
+
+
 ## Creating a new Project
 
 ```
