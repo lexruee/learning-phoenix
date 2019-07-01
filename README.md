@@ -1,10 +1,65 @@
 # Learning Phoenix
 
-## Installation
+## Installation on Arch Linux
+
+### Version manager
+
+First, install the version manager `asdf-vm`:
+
+```bash
+yay -S asdf-vm
+```
+
+### Elixir
 
 ``` 
+asdf plugin-add elixir
+asdf plugin install elixir 1.9.0
+asdf global elixir 1.9.0
+```
+
+Check:
+
+``` 
+elixir --version
+mix --version
+```
+
+
+### Node.js
+
+``` 
+asdf plugin-add nodejs
+asdf plugin install nodejs 12.2.0
+asdf global nodejs 12.2.0
+```
+
+Check:
+
+``` 
+node --version
+```
+
+
+### Postgres
+
+``` 
+yay -S postgresql
+sudo -iu postgres
+initdb -D /var/lib/postgres/data
+exit
+```
+
+Check:
+
+``` 
+psql --version
+```
+
+### Phoenix
+``` 
 mix local.hex
-mix archive.install hex phx_new 1.4.3
+mix archive.install hex phx_new 1.4.8
 ```
 
 
