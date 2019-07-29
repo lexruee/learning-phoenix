@@ -7,3 +7,6 @@
 [submodule "phx-blog"]
 	path = phx-blog
 	url = git@github.com:lexruee/phx-blog.git
+[submodule "phx-login"]
+	path = phx-login
+	url = git@github.com:lexruee/phx-login.git
