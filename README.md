@@ -119,7 +119,8 @@ For more details see the [Phoenix Mix Documentation](https://hexdocs.pm/phoenix/
  * [Hello World App](https://github.com/lexruee/phx-hello)
  * [Todo App](https://github.com/lexruee/phx-todo)
  * [Blog App](https://github.com/lexruee/phx-blog)
- * [Login App](https://github.com/lexruee/phx-login)
+ * [Login App (Session/Cookie-based)](https://github.com/lexruee/phx-login)
+ * [Login app with Guardian (Token-based)](https://github.com/lexruee/phx-guardian)
 
 
 ## Online Resources

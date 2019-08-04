@@ -10,3 +10,6 @@
 [submodule "phx-login"]
 	path = phx-login
 	url = git@github.com:lexruee/phx-login.git
+[submodule "phx-guardian"]
+	path = phx-guardian
+	url = git@github.com:lexruee/phx-guardian.git
